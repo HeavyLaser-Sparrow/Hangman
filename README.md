@@ -1,4 +1,4 @@
-Simple 4-letter Hangman game.
+Simple Hangman game.
 It will be you v. computer.
 
 Future Goals:
